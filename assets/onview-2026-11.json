@@ -1,0 +1,84 @@
+{
+  "month": "2026.11",
+  "subtitle": "11월, 재료와 기억을 다시 읽는 전시 여섯 곳.",
+  "regions": [
+    {
+      "id": "metro",
+      "label": "서울 · 경기",
+      "exhibitions": [
+        {
+          "title": "테스터 게이츠 《African Still Life》",
+          "poster_title": "AFRICAN\nSTILL LIFE",
+          "description": "도자·조각·음악을 엮으며 정물을 문화와 기억의 자화상으로 확장하는 국내 첫 개인전.",
+          "venue": "화이트 큐브 서울 · 서울 강남",
+          "start": "2026-11-04",
+          "end": "2026-12-18",
+          "url": "https://www.whitecube.com/gallery-exhibitions/theaster-gates-seoul-2026",
+          "image": "",
+          "image_rights": "unconfirmed"
+        },
+        {
+          "title": "《탈피하지 못하는 뱀은》",
+          "poster_title": "탈피하지\n못하는 뱀은",
+          "description": "노오경과 세렌 후이가 영상·사운드·설치로 침묵과 이주, 기록에서 빠진 기억을 탐색한다.",
+          "venue": "서울시립 서서울미술관 · 서울 금천",
+          "start": "2026-11-05",
+          "end": "2027-02-28",
+          "url": "https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1604602",
+          "image": "",
+          "image_rights": "unconfirmed"
+        },
+        {
+          "title": "《조지아 오키프와 미국 모더니즘》",
+          "poster_title": "GEORGIA\nO'KEEFFE",
+          "description": "시카고미술관 소장품을 통해 오키프와 동료 작가들의 회화·사진, 미국 모더니즘의 형성을 살핀다.",
+          "venue": "국립현대미술관 과천 · 경기 과천",
+          "start": "2026-11-12",
+          "end": "2027-03-21",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhFlag=1&exhId=202609220002094",
+          "image": "",
+          "image_rights": "unconfirmed"
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "label": "그 외 지역",
+      "exhibitions": [
+        {
+          "title": "이명미 《더 이상은 말할 수 없다》",
+          "poster_title": "더 이상은\n말할 수 없다",
+          "description": "제26회 이인성미술상 수상 작가의 대담한 색채와 50여 년 회화 여정을 되짚는 전시.",
+          "venue": "대구미술관 · 대구",
+          "start": "2026-11-03",
+          "end": "2027-02-14",
+          "url": "https://artnshop.net/community/exhibition/view.php?no=129",
+          "image": "",
+          "image_rights": "unconfirmed"
+        },
+        {
+          "title": "《퓨쳐뮤지올로지》",
+          "poster_title": "FUTURE\nMUSEOLOGY",
+          "description": "국내외 아홉 미술관 협의체와 함께 수집과 전시를 넘어 공공 공간으로 확장되는 미술관을 묻는다.",
+          "venue": "부산시립미술관 · 부산 해운대",
+          "start": "2026-09-17",
+          "end": "2027-03-14",
+          "url": "https://art.busan.go.kr/tblTsite07Display/viewFutureClient.nm?id=20260911100642819",
+          "image": "",
+          "image_rights": "unconfirmed"
+        },
+        {
+          "title": "박성휘 《I AM VENUS》",
+          "poster_title": "I AM\nVENUS",
+          "description": "표정과 몸짓이 다른 여성들의 회화 30여 점을 통해 외형에 대한 사회적 기준을 되묻는다.",
+          "venue": "광주예술의전당 갤러리 · 광주",
+          "start": "2026-10-30",
+          "end": "2026-11-29",
+          "url": "https://gjart.gwangju.go.kr/ko/cmd.do?bnum=10313&boper=view&opencode=p0104",
+          "image": "",
+          "image_rights": "unconfirmed"
+        }
+      ]
+    }
+  ]
+}
