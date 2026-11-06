@@ -1,0 +1,84 @@
+{
+  "month": "2026.10",
+  "subtitle": "10월, 직접 볼 가치가 있는 전시들.",
+  "regions": [
+    {
+      "id": "metro",
+      "label": "서울 · 경기",
+      "exhibitions": [
+        {
+          "title": "김영재 개인전 《Ashes to Bones》",
+          "poster_title": "Ashes to Bones",
+          "description": "전소된 숲과 파편에서 출발해 소멸과 재생의 감각을 탐구하는 개인전.",
+          "venue": "아케이드서울 · 서울 문래",
+          "start": "2026-10-04",
+          "end": "2026-10-31",
+          "url": "https://www.mcst.go.kr/site/s_culture/culture/cultureView.jsp?pRo=72&pSeq=76332",
+          "image": "",
+          "image_rights": "unconfirmed"
+        },
+        {
+          "title": "망각 기관—셰헤라자데 장치",
+          "poster_title": "망각 기관\n셰헤라자데 장치",
+          "description": "지상의 움직임을 지하 전시장의 빛과 소리로 연결하는 두 작가의 협업.",
+          "venue": "문화살롱 5120 · 서울 노원",
+          "start": "2026-09-18",
+          "end": "2026-11-14",
+          "url": "https://salon5120.com/oblivion/",
+          "image": "",
+          "image_rights": "unconfirmed"
+        },
+        {
+          "title": "아이라최 《낙원의 안쪽》",
+          "poster_title": "낙원의 안쪽",
+          "description": "기억과 상상이 겹친 풍경을 나이프의 물감 층으로 구축하는 회화전.",
+          "venue": "갤러리위",
+          "start": "2026-10-15",
+          "end": "2026-11-14",
+          "url": "https://www.mcst.go.kr/site/s_culture/culture/cultureView.jsp?pSeq=76576",
+          "image": "",
+          "image_rights": "unconfirmed"
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "label": "그 외 지역",
+      "exhibitions": [
+        {
+          "title": "이인미 《흐르는 도시 FLUID SCAPE》",
+          "poster_title": "흐르는 도시",
+          "description": "도시의 변화를 내부자의 시선으로 포착한 부산 흑백사진 프로젝트.",
+          "venue": "고은사진미술관 · 부산",
+          "start": "2026-09-16",
+          "end": "2026-12-26",
+          "url": "https://www.goeunmuseum.kr/bbs/board.php?bo_table=exhibition&wr_id=247",
+          "image": "",
+          "image_rights": "unconfirmed"
+        },
+        {
+          "title": "《사건은 없다》",
+          "poster_title": "사건은 없다",
+          "description": "사진과 영상 속에서 사건으로 기록되지 않은 작은 변화와 흔적을 바라보는 전시.",
+          "venue": "대아스페이스 · 전북 완주",
+          "start": "2026-09-22",
+          "end": "2026-12-13",
+          "url": "https://www.jma.go.kr/web/page.php?exhibit_code=26091715275866&pcode=AA05",
+          "image": "",
+          "image_rights": "unconfirmed"
+        },
+        {
+          "title": "장승택 《감각의 층위》",
+          "poster_title": "감각의 층위",
+          "description": "얇게 쌓은 안료와 미묘한 색 차이를 감각하게 하는 겹회화 신작전.",
+          "venue": "소울아트스페이스 · 부산",
+          "start": "2026-09-17",
+          "end": "2026-11-17",
+          "url": "https://www.mcst.go.kr/site/s_culture/culture/cultureView.jsp?pRo=569&pSeq=75481",
+          "image": "",
+          "image_rights": "unconfirmed"
+        }
+      ]
+    }
+  ]
+}
