@@ -1,0 +1,84 @@
+{
+  "month": "2026.12",
+  "subtitle": "12월, 읽기와 기억, 변화하는 도시를 살펴보는 전시 여섯 곳.",
+  "regions": [
+    {
+      "id": "metro",
+      "label": "서울 · 경기",
+      "exhibitions": [
+        {
+          "title": "《읽기의 기술》",
+          "poster_title": "읽기의\n기술",
+          "description": "1970년대 이후 한국의 그래픽 디자인·편집·출판을 따라 종이에서 픽셀로 변화한 읽기의 조건을 살핀다.",
+          "venue": "국립현대미술관 서울 · 서울 종로",
+          "start": "2026-11-27",
+          "end": "2027-04-11",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhFlag=1&exhId=202601160002037",
+          "image": "",
+          "image_rights": "unconfirmed"
+        },
+        {
+          "title": "《셰자드 다우드: 미래의 기억》",
+          "poster_title": "미래의\n기억",
+          "description": "회화·조각·영상·VR로 미래의 가능성을 탐구하는 서서울미술관의 첫 뉴미디어 국제전.",
+          "venue": "서울시립 서서울미술관 · 서울 금천",
+          "start": "2026-12-03",
+          "end": "2027-02-28",
+          "url": "https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1611868",
+          "image": "",
+          "image_rights": "unconfirmed"
+        },
+        {
+          "title": "《파리의 이방인》",
+          "poster_title": "파리의\n이방인",
+          "description": "프랑스에서 활동한 한국 작가들의 정체성 탐색과 매체 실험을 돌아본다.",
+          "venue": "국립현대미술관 덕수궁 · 서울 중구",
+          "start": "2026-12-17",
+          "end": "2027-05-09",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhFlag=1&exhId=202601120002030",
+          "image": "",
+          "image_rights": "unconfirmed"
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "label": "그 외 지역",
+      "exhibitions": [
+        {
+          "title": "이인미 《흐르는 도시 FLUID SCAPE》",
+          "poster_title": "FLUID\nSCAPE",
+          "description": "부산의 변화하는 장소와 사라진 풍경을 사진으로 기록한 부산 프로젝트 2026.",
+          "venue": "고은사진미술관 · 부산 해운대",
+          "start": "2026-09-16",
+          "end": "2026-12-26",
+          "url": "https://www.goeunmuseum.kr/bbs/board.php?bo_table=exhibition&proc=now&tabs=1&wr_id=247",
+          "image": "",
+          "image_rights": "unconfirmed"
+        },
+        {
+          "title": "《피카소에서 키키 스미스까지 - 모더니티의 초상》",
+          "poster_title": "모더니티의\n초상",
+          "description": "대구미술관과 프랑스 LaM의 소장품을 통해 근대부터 동시대까지 초상의 변화를 살핀다.",
+          "venue": "대구미술관 · 대구 수성",
+          "start": "2026-11-17",
+          "end": "2027-03-14",
+          "url": "https://www.mcst.go.kr/site/s_culture/culture/cultureView.jsp?pRo=833&pSeq=77785",
+          "image": "",
+          "image_rights": "unconfirmed"
+        },
+        {
+          "title": "《미틸라 회화, 마음과 삶을 잇는 그림》",
+          "poster_title": "미틸라\n회화",
+          "description": "인도와 네팔 국경 지역에서 여성들이 이어온 회화와 공예를 통해 공동체의 문화유산을 만난다.",
+          "venue": "국립아시아문화전당 · 광주 동구",
+          "start": "2026-08-20",
+          "end": "2027-02-28",
+          "url": "https://www.acc.go.kr/main/exhibition.do?PID=0204&action=Read&bnkey=EM_0000009948",
+          "image": "",
+          "image_rights": "unconfirmed"
+        }
+      ]
+    }
+  ]
+}
